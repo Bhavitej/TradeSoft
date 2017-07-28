@@ -1,8 +1,8 @@
--gunicorn
--Django==1.9.4
--numpy
--scikit-learn
--scipy
--pandas
--Quandl==3.2.0
+gunicorn
+Django==1.9.4
+numpy
+scikit-learn
+scipy
+pandas
+Quandl==3.2.0
 

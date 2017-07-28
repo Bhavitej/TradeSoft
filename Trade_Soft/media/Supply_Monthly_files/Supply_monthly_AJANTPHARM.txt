@@ -1,0 +1,17 @@
+
+Iteration 1:
+Zone found
+Pointer1:2
+Pointer2:9
+Pointer3:10
+Entry:1698.000000
+StopLoss2125.000000
+Fresh_score=1
+High_till_that_point=1696.950000
+
+Desired Zone found
+Final values:
+Entry=1698.000000
+Stop Loss=2125.000000
+Fresh_score=1
+High_till_that_point=1696.950000

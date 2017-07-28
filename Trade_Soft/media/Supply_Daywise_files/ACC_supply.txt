@@ -1,0 +1,2377 @@
+
+Iteration 1:
+Zone found
+Pointer1:2
+Pointer2:4
+Pointer3:5
+Entry:1708.600000
+StopLoss1747.500000
+score:3
+Fresh_score=0
+High_till_that_point=1744.400000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=0
+Low_till_that_point=1697.950000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 2:
+Zone found
+Pointer1:7
+Pointer2:8
+Pointer3:9
+Entry:1747.400000
+StopLoss1809.000000
+score:3
+Fresh_score=0
+High_till_that_point=1775.250000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=0
+Low_till_that_point=1695.450000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 3:
+Zone found
+Pointer1:23
+Pointer2:27
+Pointer3:28
+Entry:1641.600000
+StopLoss1674.150000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=0
+Low_till_that_point=1541.250000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 4:
+Zone found
+Pointer1:36
+Pointer2:37
+Pointer3:38
+Entry:1641.000000
+StopLoss1658.000000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=1
+Low_till_that_point=1541.250000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 5:
+Zone found
+Pointer1:45
+Pointer2:46
+Pointer3:47
+Entry:1627.500000
+StopLoss1647.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=1
+Low_till_that_point=1541.250000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 6:
+Zone found
+Pointer1:47
+Pointer2:48
+Pointer3:49
+Entry:1675.400000
+StopLoss1704.500000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=1
+Low_till_that_point=1541.250000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 7:
+Zone found
+Pointer1:61
+Pointer2:62
+Pointer3:63
+Entry:1626.550000
+StopLoss1635.000000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1541.250000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 8:
+Zone found
+Pointer1:67
+Pointer2:73
+Pointer3:74
+Entry:1482.350000
+StopLoss1522.000000
+score:1
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=0
+High_score=0
+Low_till_that_point=1513.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 9:
+Zone found
+Pointer1:87
+Pointer2:88
+Pointer3:89
+Entry:1411.000000
+StopLoss1421.200000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=0
+Low_till_that_point=1380.400000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 10:
+Zone found
+Pointer1:91
+Pointer2:96
+Pointer3:97
+Entry:1387.450000
+StopLoss1431.450000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=0
+Low_till_that_point=1380.400000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 11:
+Zone found
+Pointer1:97
+Pointer2:101
+Pointer3:102
+Entry:1393.450000
+StopLoss1438.850000
+score:1
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=0
+Low_till_that_point=1380.400000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 12:
+Zone found
+Pointer1:103
+Pointer2:104
+Pointer3:105
+Entry:1438.100000
+StopLoss1453.900000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=0
+Low_till_that_point=1380.400000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 13:
+Zone found
+Pointer1:111
+Pointer2:114
+Pointer3:115
+Entry:1485.500000
+StopLoss1512.050000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=2
+time_spend_score=1
+High_score=0
+Low_till_that_point=1380.400000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 14:
+Zone found
+Pointer1:127
+Pointer2:128
+Pointer3:129
+Entry:1351.000000
+StopLoss1367.950000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=0
+Low_till_that_point=1326.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 15:
+Zone found
+Pointer1:136
+Pointer2:138
+Pointer3:139
+Entry:1330.500000
+StopLoss1349.100000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=0
+Low_till_that_point=1314.050000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 16:
+Zone found
+Pointer1:146
+Pointer2:149
+Pointer3:150
+Entry:1294.400000
+StopLoss1314.100000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=0
+Low_till_that_point=1279.300000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 17:
+Zone found
+Pointer1:152
+Pointer2:153
+Pointer3:154
+Entry:1306.000000
+StopLoss1328.100000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=0
+Low_till_that_point=1269.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 18:
+Zone found
+Pointer1:154
+Pointer2:155
+Pointer3:156
+Entry:1339.750000
+StopLoss1349.900000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1269.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 19:
+Zone found
+Pointer1:167
+Pointer2:170
+Pointer3:171
+Entry:1282.000000
+StopLoss1335.000000
+score:1
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=0
+Low_till_that_point=1269.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 20:
+Zone found
+Pointer1:171
+Pointer2:172
+Pointer3:173
+Entry:1306.000000
+StopLoss1318.450000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=0
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 21:
+Zone found
+Pointer1:173
+Pointer2:174
+Pointer3:175
+Entry:1338.850000
+StopLoss1375.000000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=0
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 22:
+Zone found
+Pointer1:176
+Pointer2:178
+Pointer3:179
+Entry:1451.150000
+StopLoss1497.000000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=2
+time_spend_score=2
+High_score=1
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 23:
+Zone found
+Pointer1:189
+Pointer2:190
+Pointer3:191
+Entry:1560.200000
+StopLoss1586.700000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 24:
+Zone found
+Pointer1:191
+Pointer2:194
+Pointer3:195
+Entry:1607.000000
+StopLoss1627.800000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 25:
+Zone found
+Pointer1:195
+Pointer2:196
+Pointer3:197
+Entry:1636.000000
+StopLoss1651.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 26:
+Zone found
+Pointer1:218
+Pointer2:221
+Pointer3:222
+Entry:1685.000000
+StopLoss1715.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 27:
+Zone found
+Pointer1:231
+Pointer2:235
+Pointer3:236
+Entry:1654.300000
+StopLoss1708.050000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 28:
+Zone found
+Pointer1:239
+Pointer2:240
+Pointer3:241
+Entry:1715.150000
+StopLoss1736.400000
+score:6
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=2
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 29:
+Zone found
+Pointer1:248
+Pointer2:250
+Pointer3:251
+Entry:1675.550000
+StopLoss1709.950000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 30:
+Zone found
+Pointer1:255
+Pointer2:260
+Pointer3:261
+Entry:1608.100000
+StopLoss1644.300000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 31:
+Zone found
+Pointer1:261
+Pointer2:262
+Pointer3:263
+Entry:1585.700000
+StopLoss1610.050000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 32:
+Zone found
+Pointer1:263
+Pointer2:266
+Pointer3:267
+Entry:1601.500000
+StopLoss1626.050000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 33:
+Zone found
+Pointer1:267
+Pointer2:268
+Pointer3:269
+Entry:1598.400000
+StopLoss1617.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 34:
+Zone found
+Pointer1:278
+Pointer2:279
+Pointer3:280
+Entry:1546.800000
+StopLoss1552.850000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 35:
+Zone found
+Pointer1:281
+Pointer2:283
+Pointer3:284
+Entry:1526.150000
+StopLoss1555.900000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 36:
+Zone found
+Pointer1:284
+Pointer2:286
+Pointer3:287
+Entry:1540.000000
+StopLoss1564.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 37:
+Zone found
+Pointer1:298
+Pointer2:302
+Pointer3:303
+Entry:1451.100000
+StopLoss1475.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 38:
+Zone found
+Pointer1:309
+Pointer2:314
+Pointer3:315
+Entry:1422.100000
+StopLoss1459.000000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=1
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 39:
+Zone found
+Pointer1:316
+Pointer2:318
+Pointer3:319
+Entry:1464.150000
+StopLoss1482.500000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 40:
+Zone found
+Pointer1:325
+Pointer2:326
+Pointer3:327
+Entry:1409.950000
+StopLoss1424.250000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1256.550000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 41:
+Zone found
+Pointer1:341
+Pointer2:343
+Pointer3:344
+Entry:1237.300000
+StopLoss1254.950000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=0
+Low_till_that_point=1218.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 42:
+Zone found
+Pointer1:344
+Pointer2:346
+Pointer3:347
+Entry:1240.000000
+StopLoss1259.800000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=0
+Low_till_that_point=1218.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 43:
+Zone found
+Pointer1:350
+Pointer2:351
+Pointer3:352
+Entry:1233.150000
+StopLoss1245.250000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=2
+time_spend_score=2
+High_score=1
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 44:
+Zone found
+Pointer1:352
+Pointer2:353
+Pointer3:354
+Entry:1274.500000
+StopLoss1287.300000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 45:
+Zone found
+Pointer1:371
+Pointer2:377
+Pointer3:378
+Entry:1212.250000
+StopLoss1263.500000
+score:1
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=0
+High_score=0
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 46:
+Zone found
+Pointer1:378
+Pointer2:380
+Pointer3:381
+Entry:1269.050000
+StopLoss1294.000000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=0
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 47:
+Zone found
+Pointer1:381
+Pointer2:383
+Pointer3:384
+Entry:1287.800000
+StopLoss1308.400000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=1
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 48:
+Zone found
+Pointer1:385
+Pointer2:386
+Pointer3:387
+Entry:1341.300000
+StopLoss1355.500000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 49:
+Zone found
+Pointer1:392
+Pointer2:393
+Pointer3:394
+Entry:1344.150000
+StopLoss1354.900000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 50:
+Zone found
+Pointer1:394
+Pointer2:400
+Pointer3:401
+Entry:1337.650000
+StopLoss1364.800000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=0
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 51:
+Zone found
+Pointer1:411
+Pointer2:417
+Pointer3:418
+Entry:1332.850000
+StopLoss1365.400000
+score:1
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=0
+High_score=1
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 52:
+Zone found
+Pointer1:423
+Pointer2:425
+Pointer3:426
+Entry:1359.150000
+StopLoss1392.650000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=1
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 53:
+Zone found
+Pointer1:430
+Pointer2:433
+Pointer3:434
+Entry:1385.400000
+StopLoss1405.000000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 54:
+Zone found
+Pointer1:434
+Pointer2:435
+Pointer3:436
+Entry:1394.000000
+StopLoss1407.450000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 55:
+Zone found
+Pointer1:447
+Pointer2:454
+Pointer3:455
+Entry:1325.000000
+StopLoss1380.000000
+score:0
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=0
+High_score=0
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 56:
+Zone found
+Pointer1:471
+Pointer2:476
+Pointer3:477
+Entry:1360.400000
+StopLoss1423.000000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=0
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 57:
+Zone found
+Pointer1:489
+Pointer2:490
+Pointer3:491
+Entry:1384.800000
+StopLoss1405.950000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 58:
+Zone found
+Pointer1:497
+Pointer2:499
+Pointer3:500
+Entry:1432.500000
+StopLoss1472.900000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 59:
+Zone found
+Pointer1:506
+Pointer2:507
+Pointer3:508
+Entry:1475.000000
+StopLoss1500.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 60:
+Zone found
+Pointer1:508
+Pointer2:509
+Pointer3:510
+Entry:1500.100000
+StopLoss1515.550000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 61:
+Zone found
+Pointer1:525
+Pointer2:526
+Pointer3:527
+Entry:1402.150000
+StopLoss1413.400000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 62:
+Zone found
+Pointer1:527
+Pointer2:528
+Pointer3:529
+Entry:1436.400000
+StopLoss1452.150000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 63:
+Zone found
+Pointer1:531
+Pointer2:532
+Pointer3:533
+Entry:1461.600000
+StopLoss1474.800000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 64:
+Zone found
+Pointer1:534
+Pointer2:535
+Pointer3:536
+Entry:1515.000000
+StopLoss1532.000000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 65:
+Zone found
+Pointer1:540
+Pointer2:541
+Pointer3:542
+Entry:1519.200000
+StopLoss1541.850000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 66:
+Zone found
+Pointer1:553
+Pointer2:554
+Pointer3:555
+Entry:1471.400000
+StopLoss1478.650000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 67:
+Zone found
+Pointer1:556
+Pointer2:557
+Pointer3:558
+Entry:1484.450000
+StopLoss1546.950000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=1
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 68:
+Zone found
+Pointer1:559
+Pointer2:560
+Pointer3:561
+Entry:1519.800000
+StopLoss1545.750000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 69:
+Zone found
+Pointer1:563
+Pointer2:564
+Pointer3:565
+Entry:1521.800000
+StopLoss1552.200000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 70:
+Zone found
+Pointer1:566
+Pointer2:567
+Pointer3:568
+Entry:1614.000000
+StopLoss1630.950000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 71:
+Zone found
+Pointer1:568
+Pointer2:569
+Pointer3:570
+Entry:1624.000000
+StopLoss1649.450000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 72:
+Zone found
+Pointer1:570
+Pointer2:571
+Pointer3:572
+Entry:1636.200000
+StopLoss1676.850000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 73:
+Zone found
+Pointer1:577
+Pointer2:582
+Pointer3:583
+Entry:1565.500000
+StopLoss1604.000000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 74:
+Zone found
+Pointer1:584
+Pointer2:585
+Pointer3:586
+Entry:1591.050000
+StopLoss1628.950000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 75:
+Zone found
+Pointer1:591
+Pointer2:592
+Pointer3:593
+Entry:1698.650000
+StopLoss1729.000000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 76:
+Zone found
+Pointer1:593
+Pointer2:594
+Pointer3:595
+Entry:1758.300000
+StopLoss1774.650000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 77:
+Zone found
+Pointer1:620
+Pointer2:622
+Pointer3:623
+Entry:1544.000000
+StopLoss1569.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 78:
+Zone found
+Pointer1:647
+Pointer2:651
+Pointer3:652
+Entry:1428.350000
+StopLoss1447.950000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 79:
+Zone found
+Pointer1:652
+Pointer2:653
+Pointer3:654
+Entry:1478.150000
+StopLoss1517.000000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 80:
+Zone found
+Pointer1:662
+Pointer2:664
+Pointer3:665
+Entry:1447.750000
+StopLoss1483.250000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 81:
+Zone found
+Pointer1:666
+Pointer2:669
+Pointer3:670
+Entry:1487.000000
+StopLoss1517.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 82:
+Zone found
+Pointer1:670
+Pointer2:672
+Pointer3:673
+Entry:1507.000000
+StopLoss1531.600000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 83:
+Zone found
+Pointer1:681
+Pointer2:682
+Pointer3:683
+Entry:1480.100000
+StopLoss1485.100000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 84:
+Zone found
+Pointer1:688
+Pointer2:689
+Pointer3:690
+Entry:1385.000000
+StopLoss1401.350000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 85:
+Zone found
+Pointer1:695
+Pointer2:696
+Pointer3:697
+Entry:1435.300000
+StopLoss1456.400000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 86:
+Zone found
+Pointer1:700
+Pointer2:702
+Pointer3:703
+Entry:1493.550000
+StopLoss1520.000000
+score:6
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=2
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 87:
+Zone found
+Pointer1:706
+Pointer2:712
+Pointer3:713
+Entry:1521.750000
+StopLoss1560.500000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=0
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 88:
+Zone found
+Pointer1:717
+Pointer2:718
+Pointer3:719
+Entry:1499.800000
+StopLoss1509.900000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 89:
+Zone found
+Pointer1:719
+Pointer2:724
+Pointer3:725
+Entry:1518.000000
+StopLoss1549.750000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 90:
+Zone found
+Pointer1:739
+Pointer2:740
+Pointer3:741
+Entry:1455.400000
+StopLoss1473.400000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 91:
+Zone found
+Pointer1:741
+Pointer2:742
+Pointer3:743
+Entry:1489.050000
+StopLoss1500.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 92:
+Zone found
+Pointer1:749
+Pointer2:754
+Pointer3:755
+Entry:1418.550000
+StopLoss1487.800000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=0
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 93:
+Zone found
+Pointer1:755
+Pointer2:757
+Pointer3:758
+Entry:1471.000000
+StopLoss1514.950000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 94:
+Zone found
+Pointer1:760
+Pointer2:762
+Pointer3:763
+Entry:1469.950000
+StopLoss1485.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 95:
+Zone found
+Pointer1:771
+Pointer2:772
+Pointer3:773
+Entry:1499.550000
+StopLoss1515.450000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 96:
+Zone found
+Pointer1:787
+Pointer2:791
+Pointer3:792
+Entry:1377.100000
+StopLoss1459.900000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=0
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 97:
+Zone found
+Pointer1:803
+Pointer2:804
+Pointer3:805
+Entry:1334.000000
+StopLoss1356.600000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 98:
+Zone found
+Pointer1:805
+Pointer2:807
+Pointer3:808
+Entry:1333.250000
+StopLoss1369.000000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=1
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 99:
+Zone found
+Pointer1:809
+Pointer2:814
+Pointer3:815
+Entry:1351.000000
+StopLoss1403.000000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=0
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 100:
+Zone found
+Pointer1:816
+Pointer2:817
+Pointer3:818
+Entry:1389.100000
+StopLoss1400.000000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 101:
+Zone found
+Pointer1:826
+Pointer2:830
+Pointer3:831
+Entry:1236.950000
+StopLoss1293.900000
+score:1
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=0
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 102:
+Zone found
+Pointer1:831
+Pointer2:833
+Pointer3:834
+Entry:1250.100000
+StopLoss1285.300000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=0
+Low_till_that_point=1174.000000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 103:
+Zone found
+Pointer1:844
+Pointer2:845
+Pointer3:846
+Entry:1020.000000
+StopLoss1035.000000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=0
+Low_till_that_point=1003.100000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 104:
+Zone found
+Pointer1:850
+Pointer2:852
+Pointer3:853
+Entry:1048.100000
+StopLoss1055.100000
+score:5
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=2
+Low_till_that_point=1001.750000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 105:
+Zone found
+Pointer1:863
+Pointer2:870
+Pointer3:871
+Entry:1016.050000
+StopLoss1048.750000
+score:0
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=0
+High_score=0
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 106:
+Zone found
+Pointer1:871
+Pointer2:872
+Pointer3:873
+Entry:1034.800000
+StopLoss1044.650000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 107:
+Zone found
+Pointer1:874
+Pointer2:880
+Pointer3:881
+Entry:1080.100000
+StopLoss1122.150000
+score:1
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=0
+High_score=0
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 108:
+Zone found
+Pointer1:882
+Pointer2:885
+Pointer3:886
+Entry:1107.000000
+StopLoss1132.000000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=1
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 109:
+Zone found
+Pointer1:888
+Pointer2:891
+Pointer3:892
+Entry:1087.350000
+StopLoss1108.750000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=1
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 110:
+Zone found
+Pointer1:892
+Pointer2:895
+Pointer3:896
+Entry:1120.000000
+StopLoss1183.900000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=0
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 111:
+Zone found
+Pointer1:898
+Pointer2:901
+Pointer3:902
+Entry:1091.950000
+StopLoss1120.000000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=1
+High_score=1
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 112:
+Zone found
+Pointer1:904
+Pointer2:905
+Pointer3:906
+Entry:1068.400000
+StopLoss1094.000000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=0
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 113:
+Zone found
+Pointer1:916
+Pointer2:917
+Pointer3:918
+Entry:1110.050000
+StopLoss1128.000000
+score:6
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=2
+time_spend_score=2
+High_score=2
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 114:
+Zone found
+Pointer1:918
+Pointer2:923
+Pointer3:924
+Entry:1134.850000
+StopLoss1166.950000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=1
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 115:
+Zone found
+Pointer1:925
+Pointer2:927
+Pointer3:928
+Entry:1136.750000
+StopLoss1160.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 116:
+Zone found
+Pointer1:937
+Pointer2:938
+Pointer3:939
+Entry:1125.000000
+StopLoss1142.700000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 117:
+Zone found
+Pointer1:939
+Pointer2:940
+Pointer3:941
+Entry:1132.450000
+StopLoss1145.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 118:
+Zone found
+Pointer1:942
+Pointer2:954
+Pointer3:955
+Entry:1033.000000
+StopLoss1138.000000
+score:0
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=0
+High_score=0
+Low_till_that_point=970.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 119:
+Zone found
+Pointer1:962
+Pointer2:965
+Pointer3:966
+Entry:935.000000
+StopLoss976.300000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=0
+Low_till_that_point=913.900000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 120:
+Zone found
+Pointer1:966
+Pointer2:969
+Pointer3:970
+Entry:989.700000
+StopLoss1020.000000
+score:2
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=0
+Low_till_that_point=911.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 121:
+Zone found
+Pointer1:971
+Pointer2:972
+Pointer3:973
+Entry:1124.500000
+StopLoss1146.000000
+score:6
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=2
+time_spend_score=2
+High_score=2
+Low_till_that_point=911.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 122:
+Zone found
+Pointer1:979
+Pointer2:981
+Pointer3:982
+Entry:1159.800000
+StopLoss1205.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=2
+High_score=1
+Low_till_that_point=911.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 123:
+Zone found
+Pointer1:982
+Pointer2:983
+Pointer3:984
+Entry:1171.050000
+StopLoss1199.000000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=911.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 124:
+Zone found
+Pointer1:984
+Pointer2:989
+Pointer3:990
+Entry:1190.050000
+StopLoss1254.400000
+score:3
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=1
+time_spend_score=1
+High_score=1
+Low_till_that_point=911.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+
+Iteration 125:
+Zone found
+Pointer1:990
+Pointer2:992
+Pointer3:993
+Entry:1275.000000
+StopLoss1292.950000
+score:4
+Fresh_score=0
+High_till_that_point=1809.000000
+trend_score=0
+Gap_up_score=0
+time_spend_score=2
+High_score=2
+Low_till_that_point=911.150000
+Weekly_stoploss:-1.000000
+Monthly_stoploss:-1.000000
+Curve_Score:0.000000
+Final Results:
+Zone not found

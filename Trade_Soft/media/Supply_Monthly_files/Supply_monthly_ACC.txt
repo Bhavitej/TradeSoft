@@ -1,0 +1,42 @@
+
+Iteration 1:
+Zone found
+Pointer1:8
+Pointer2:11
+Pointer3:12
+Entry:1599.850000
+StopLoss1736.400000
+Fresh_score=0
+High_till_that_point=1756.700000
+
+Iteration 2:
+Zone found
+Pointer1:17
+Pointer2:25
+Pointer3:26
+Entry:1321.000000
+StopLoss1541.850000
+Fresh_score=0
+High_till_that_point=1756.700000
+
+Iteration 3:
+Zone found
+Pointer1:26
+Pointer2:27
+Pointer3:28
+Entry:1562.750000
+StopLoss1774.650000
+Fresh_score=0
+High_till_that_point=1756.700000
+
+Iteration 4:
+Zone found
+Pointer1:41
+Pointer2:44
+Pointer3:45
+Entry:1096.600000
+StopLoss1183.900000
+Fresh_score=0
+High_till_that_point=1774.650000
+Final Results:
+Zone not found

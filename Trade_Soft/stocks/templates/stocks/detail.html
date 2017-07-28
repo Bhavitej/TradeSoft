@@ -1,0 +1,314 @@
+{% extends 'stocks/base.html' %}
+{% block title %}{{ album }}{% endblock %}
+{% block companies_active %}active{% endblock %}
+
+{% block body %}
+<div class="container-fluid songs-container">
+
+    <div class="row">
+
+        <!-- Left Album Info -->
+        <div class="col-sm-4 col-md-3">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <a href="{% url 'stocks:detail' company.id %}">
+                        {% if company.company_logo %}
+                            <img src="{{ company.company_logo.url }}" class="img-responsive">
+                        {% else %}
+                            <h3>No image to display</h3>
+                        {% endif %}
+                    </a>
+                    <h1>{{ company.company_name }} <small>{{ company.company_stock_code }}</small></h1>
+                    <h3>Last Demand Run:{{ company.demand_daily_lastmodified_date }}</h3>
+                    <h3>Last Supply Run:{{ company.supply_daily_lastmodified_date }}</h3>
+                </div>
+            </div>
+        </div>
+        <!-- Right -->	
+        <div class="col-sm-8 col-md-9">
+
+            <ul class="nav nav-pills" style="margin-bottom: 10px;">
+                <li role="presentation" class="active"><a href="{% url 'stocks:index' %}">View All</a></li>
+                
+            </ul>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+
+                    <h3>Demand and Supply</h3>
+
+                    {% if error_message %}
+                        <p><strong>{{ error_message }}</strong></p>
+                    {% endif %}
+
+                    <table class="table">
+                        <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Actions</th>
+                            <th>Download Log</th>
+                            <th>Entry</th>
+                            <th>Stop Loss</th>
+                            <th>Last Run Time</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                            
+                                <td>Demand Daywise</td>
+                                 
+                                <td>
+                                    <form action="{% url 'stocks:run_daily_demand' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-play"></span>&nbsp; Run
+                                        </button>
+                                        </form>
+                                    
+                                </td>
+                              
+                                <td>
+                                <form action="{% url 'stocks:download_daily_demand' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-download-alt"></span>&nbsp; Download
+                                        </button>
+                                    </form>
+                                </td>
+                                <td>
+                                {% if company.demand_daily_entry != -1 %}
+                                {{company.demand_daily_entry}}
+                                {% else %}
+                                No zone found
+                                {%	endif %}
+                                </td>
+                                <td>
+                                {% if company.demand_daily_stoploss != -1 %}
+                                {{company.demand_daily_stoploss}}
+                                {% else %}
+                                No zone found
+                                {%	endif %}
+                                </td>
+                                <td>{{company.demand_daily_lastmodified_date}} </td>
+                                
+                            </tr>
+                            <tr>
+                            
+                                <td>Supply Daywise</td>
+                                
+                                <td>
+                                    <form action="{% url 'stocks:run_daily_supply' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-play"></span>&nbsp; Run
+                                        </button>
+                                        </form>
+                                    
+                                </td>
+                              
+                                <td>
+                                <form action="{% url 'stocks:download_daily_supply' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-download-alt"></span>&nbsp; Download
+                                        </button>
+                                    </form>
+                                </td>
+                                <td>
+                                {% if company.supply_daily_entry != -1 %}
+                                {{company.supply_daily_entry}}
+                                {% else %}
+                                No zone found
+                                {%  endif %}
+                                </td>
+                                <td>
+                                {% if company.supply_daily_stoploss != -1 %}
+                                {{company.supply_daily_stoploss}}
+                                {% else %}
+                                No zone found
+                                {%  endif %}
+                                </td>
+                                <td>{{company.supply_daily_lastmodified_date}} </td>
+                                
+                            </tr>
+                            <tr>
+                            
+                                <td>Demand Weekly</td>
+                                 
+                                <td>
+                                    <form action="{% url 'stocks:run_weekly_demand' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-play"></span>&nbsp; Run
+                                        </button>
+                                        </form>
+                                    
+                                </td>
+                              
+                                <td>
+                                <form action="{% url 'stocks:download_weekly_demand' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-download-alt"></span>&nbsp; Download
+                                        </button>
+                                    </form>
+                                </td>
+                                <td>
+                                {% if company.demand_weekly_entry != -1 %}
+                                {{company.demand_weekly_entry}}
+                                {% else %}
+                                No zone found
+                                {%  endif %}
+                                </td>
+                                <td>
+                                {% if company.demand_weekly_stoploss != -1 %}
+                                {{company.demand_weekly_stoploss}}
+                                {% else %}
+                                No zone found
+                                {%  endif %}
+                                </td>
+                                <td>{{company.demand_weekly_lastmodified_date}} </td>
+                                
+                            </tr>
+                            <tr>
+                            
+                                <td>Supply Weekly</td>
+                                
+                                <td>
+                                    <form action="{% url 'stocks:run_weekly_supply' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-play"></span>&nbsp; Run
+                                        </button>
+                                        </form>
+                                    
+                                </td>
+                              
+                                <td>
+                                <form action="{% url 'stocks:download_weekly_supply' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-download-alt"></span>&nbsp; Download
+                                        </button>
+                                    </form>
+                                </td>
+                                <td>
+                                {% if company.supply_weekly_entry != -1 %}
+                                {{company.supply_weekly_entry}}
+                                {% else %}
+                                No zone found
+                                {%  endif %}
+                                </td>
+                                <td>
+                                {% if company.supply_weekly_stoploss != -1 %}
+                                {{company.supply_weekly_stoploss}}
+                                {% else %}
+                                No zone found
+                                {%  endif %}
+                                </td>
+                                <td>{{company.supply_weekly_lastmodified_date}} </td>
+                                
+                            </tr>
+                            <tr>
+                            
+                                <td>Demand Monthly</td>
+                                 
+                                <td>
+                                    <form action="{% url 'stocks:run_monthly_demand' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-play"></span>&nbsp; Run
+                                        </button>
+                                        </form>
+                                    
+                                </td>
+                              
+                                <td>
+                                <form action="{% url 'stocks:download_monthly_demand' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-download-alt"></span>&nbsp; Download
+                                        </button>
+                                    </form>
+                                </td>
+                                <td>
+                                {% if company.demand_monthly_entry != -1 %}
+                                {{company.demand_monthly_entry}}
+                                {% else %}
+                                No zone found
+                                {%  endif %}
+                                </td>
+                                <td>
+                                {% if company.demand_monthly_stoploss != -1 %}
+                                {{company.demand_daily_stoploss}}
+                                {% else %}
+                                No zone found
+                                {%  endif %}
+                                </td>
+                                <td>{{company.demand_monthly_lastmodified_date}} </td>
+                                
+                            </tr>
+                            <tr>
+                            
+                                <td>Supply Monthly</td>
+                                
+                                <td>
+                                    <form action="{% url 'stocks:run_monthly_supply' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-play"></span>&nbsp; Run
+                                        </button>
+                                        </form>
+                                    
+                                </td>
+                              
+                                <td>
+                                <form action="{% url 'stocks:download_monthly_supply' company.id %}" method="post" style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="company_id" value="{{ company.id }}" />
+                                        <button type="submit" class="btn btn-success btn-xs">
+                                            <span class="glyphicon glyphicon-download-alt"></span>&nbsp; Download
+                                        </button>
+                                    </form>
+                                </td>
+                                <td>
+                                {% if company.supply_monthly_entry != -1 %}
+                                {{company.supply_monthly_entry}}
+                                {% else %}
+                                No zone found
+                                {%  endif %}
+                                </td>
+                                <td>
+                                {% if company.supply_monthly_stoploss != -1 %}
+                                {{company.supply_monthly_stoploss}}
+                                {% else %}
+                                No zone found
+                                {%  endif %}
+                                </td>
+                                <td>{{company.supply_monthly_lastmodified_date}} </td>
+                                
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+{% endblock %}

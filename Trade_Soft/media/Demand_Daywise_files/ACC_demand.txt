@@ -1,0 +1,54 @@
+
+Iteration 1:
+Zone found
+Pointer1:9
+Pointer2:11
+Pointer3:12
+Entry:1707.250000
+StopLoss1635.000000
+score:5
+Fresh_score=0
+Low_till_that_point=1695.450000
+trend_score=1
+Gap_up_score=0
+time_spend_score=2
+High_score=0
+High_till_that_point=1809.000000
+Weekly_stoploss:1453.150000
+Monthly_stoploss:1380.400000
+Curve_Score:2.000000
+
+Iteration 2:
+Zone found
+Pointer1:13
+Pointer2:17
+Pointer3:18
+Entry:1611.650000
+StopLoss1570.000000
+score:8
+Fresh_score=1
+Low_till_that_point=1626.200000
+trend_score=1
+Gap_up_score=2
+time_spend_score=1
+High_score=1
+High_till_that_point=1809.000000
+Weekly_stoploss:1453.150000
+Monthly_stoploss:1380.400000
+Curve_Score:2.000000
+
+Desired Zone found
+Final values:
+Entry=1611.650000
+Stop Loss=1570.000000
+score=8
+Fresh_score=1
+Low_till_that_point=1626.200000
+trend_score=1
+Gap_up_score=2
+time_spend_score=1
+High_score=1
+High_till_that_point=1809.000000
+Weekly_stoploss:1453.150000
+Monthly_stoploss:1380.400000
+Curve_Score:2.000000

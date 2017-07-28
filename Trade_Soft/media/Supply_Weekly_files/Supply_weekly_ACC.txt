@@ -1,0 +1,242 @@
+
+Iteration 1:
+Zone found
+Pointer1:3
+Pointer2:7
+Pointer3:8
+Entry:1613.100000
+StopLoss1674.150000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 2:
+Zone found
+Pointer1:8
+Pointer2:11
+Pointer3:12
+Entry:1625.000000
+StopLoss1740.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 3:
+Zone found
+Pointer1:17
+Pointer2:19
+Pointer3:20
+Entry:1398.000000
+StopLoss1431.450000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 4:
+Zone found
+Pointer1:36
+Pointer2:37
+Pointer3:38
+Entry:1490.050000
+StopLoss1526.350000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 5:
+Zone found
+Pointer1:39
+Pointer2:46
+Pointer3:47
+Entry:1599.850000
+StopLoss1725.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 6:
+Zone found
+Pointer1:49
+Pointer2:54
+Pointer3:55
+Entry:1597.650000
+StopLoss1724.450000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 7:
+Zone found
+Pointer1:61
+Pointer2:64
+Pointer3:65
+Entry:1424.000000
+StopLoss1475.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 8:
+Zone found
+Pointer1:65
+Pointer2:66
+Pointer3:67
+Entry:1447.500000
+StopLoss1482.500000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 9:
+Zone found
+Pointer1:85
+Pointer2:87
+Pointer3:88
+Entry:1324.900000
+StopLoss1373.150000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 10:
+Zone found
+Pointer1:88
+Pointer2:89
+Pointer3:90
+Entry:1373.250000
+StopLoss1443.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 11:
+Zone found
+Pointer1:90
+Pointer2:91
+Pointer3:92
+Entry:1398.500000
+StopLoss1405.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 12:
+Zone found
+Pointer1:101
+Pointer2:106
+Pointer3:107
+Entry:1384.800000
+StopLoss1515.550000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 13:
+Zone found
+Pointer1:111
+Pointer2:112
+Pointer3:113
+Entry:1512.400000
+StopLoss1528.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 14:
+Zone found
+Pointer1:116
+Pointer2:117
+Pointer3:118
+Entry:1521.800000
+StopLoss1575.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 15:
+Zone found
+Pointer1:123
+Pointer2:126
+Pointer3:127
+Entry:1620.400000
+StopLoss1774.650000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 16:
+Zone found
+Pointer1:128
+Pointer2:129
+Pointer3:130
+Entry:1540.150000
+StopLoss1595.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 17:
+Zone found
+Pointer1:136
+Pointer2:138
+Pointer3:139
+Entry:1465.150000
+StopLoss1510.650000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 18:
+Zone found
+Pointer1:139
+Pointer2:142
+Pointer3:143
+Entry:1485.100000
+StopLoss1531.600000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 19:
+Zone found
+Pointer1:147
+Pointer2:151
+Pointer3:152
+Entry:1492.550000
+StopLoss1564.650000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 20:
+Zone found
+Pointer1:155
+Pointer2:156
+Pointer3:157
+Entry:1440.000000
+StopLoss1500.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 21:
+Zone found
+Pointer1:170
+Pointer2:172
+Pointer3:173
+Entry:1361.000000
+StopLoss1403.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 22:
+Zone found
+Pointer1:182
+Pointer2:183
+Pointer3:184
+Entry:1027.650000
+StopLoss1048.750000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 23:
+Zone found
+Pointer1:193
+Pointer2:195
+Pointer3:196
+Entry:1136.750000
+StopLoss1166.950000
+Fresh_score=0
+High_till_that_point=1809.000000
+
+Iteration 24:
+Zone found
+Pointer1:204
+Pointer2:207
+Pointer3:208
+Entry:1158.900000
+StopLoss1199.000000
+Fresh_score=0
+High_till_that_point=1809.000000
+Final Results:
+Zone not found
